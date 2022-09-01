@@ -19,7 +19,7 @@ sidebar:
     website: adenpribadi.github.io #do not add http://
     linkedin: aden-pribadi
     github: adenpribadi
-    telegram: vzveda# add your nickname without '@' sign
+    telegram: vzveda # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: #'@webjeda'
@@ -119,28 +119,6 @@ projects:
         link: "https://fpsip.tri-saudara.com/"
         tagline: "This software includes a warehouse inventory module, Production Module, HR module, finance module, sales module, invoicing module for healthcare industries (PT. Tarafis Anugerah Medika)"
 
-
-publications:
-    title: #Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers: #
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
