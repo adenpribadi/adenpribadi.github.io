@@ -7,23 +7,22 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Aden Pribadi
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: aden.pribadi@gmail.com
+    phone: (+62) 822 1694 1828
+    timezone: Asia/Jakarta Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website: adenpribadi.github.io #do not add http://
+    linkedin: aden-pribadi
+    github: adenpribadi
+    telegram: vzveda# add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,42 +31,34 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Indonesia
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: Native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Gaming
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Watching Movie
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced Ruby on Rails developer who is enthusiastic about writing clean, 
+      efficient, and readable code in a functional framework.
+      Committed to the total development lifecycle, the maintenance of code quality and 
+      bug-free applications is of the utmost importance.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bachelor in Information Engineering
+        university: STMIK MIC Cikarang
+        time: 2012 - 2016
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,91 +67,66 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
       - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+        time: 2016 - Present
+        company: PT. Techno Indonesia, Bekasi
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Write functional, unit, and integration tests for application quality assurance.
+          Use version control tool Git and code storage tool Github for added application 
+          functionality.
+          Complete database migrations with Ruby on Rails and ActiveRecord.
+          Build a ERP apps for internal company
+          Integrate email and telegram functionality in applications.
+          Lead team meetings to optimize the application creation cycle.
+      - role: IT Support
+        time: 2013 - 2016
+        company: PT. Techno Indonesia, Bekasi
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          responsible for maintains the computer networks of all types of organisations, 
+          providing technical support and ensuring the whole company runs smoothly. 
+          maintains the company computer systems, installs, and configures hardware and software, 
+          and solves technical issues as they arise. 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      projects that I have made so far.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: ERP Manufacturing (Rails 7)
+        link: "https://erp.axveez.com"
+        tagline: "This software includes a warehouse inventory module, Production Module, HR module, finance module, sales module, invoicing module for multi companies, (user: demo, pwd: 123456)"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: SIP I (Rails 4)
+        link: "https://sip.tri-saudara.co.id"
+        tagline: "This software includes a warehouse inventory module, Production Module, HR module, finance module, sales module, invoicing module for injection molding companies (PT. Tri-Saudara Sentosa Industri Plant Jakarta)"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: SIP II (Rails 4)
+        link: "https://sip.tri-saudara.com"
+        tagline: "This software includes a warehouse inventory module, Production Module, HR module, finance module, sales module, invoicing module for multi companies (PT. Techno Indonesia & PT. Tri-Saudara Sentosa Industri Plant Cikarang)"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: ERP Provital (Rails 5)
+        link: "https://erp.tri-saudara.com"
+        tagline: "This software includes a warehouse inventory module, HR module, finance module, sales module, Batch Numbering Module, invoicing module for healthcare industries (PT. Provital Perdana)"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: OCR (Rails 5)
+        link: "https://ocr.tri-saudara.com"
+        tagline: "this software to get value from a machine configuration as image file"
+
+      - title: SIP Tarafis (Rails 4)
+        link: "https://fpsip.tri-saudara.com/"
+        tagline: "This software includes a warehouse inventory module, Production Module, HR module, finance module, sales module, invoicing module for healthcare industries (PT. Tarafis Anugerah Medika)"
+
 
 publications:
-    title: Publications
+    title: #Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-    papers:
+    papers: #
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
@@ -180,23 +146,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
       - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: SQL
+        level: 85%
+
+      - name: Git
+        level: 85%
+
+      - name: Docker
+        level: 50%
+
+      - name: Web Scraping
+        level: 50%
+
+      - name: Python
+        level: 50%
+
+      - name: Golang
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
