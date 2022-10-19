@@ -127,6 +127,9 @@ skills:
       - name: Ruby on Rails
         level: 85%
 
+      - name: Galera Cluster
+        level: 85%
+
       - name: SQL
         level: 85%
 
@@ -137,7 +140,7 @@ skills:
         level: 50%
 
       - name: Web Scraping
-        level: 50%
+        level: 70%
 
       - name: Python
         level: 50%
